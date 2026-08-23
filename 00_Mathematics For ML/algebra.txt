@@ -1,0 +1,44 @@
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
+#### LINEAR REGRESSION ####
+
+Let's You are a manager of a company and You give salary an employee 500/day and 1000 joining bonus that is fixed for everyone 
+
+An employee's salary 
+
+    500/day 
+    1000 joining bonus ( Fixed for everyone)
+
+Day -----> Income
+
+0           1000
+1           1500
+2           2000
+3           3000
+
+equation -> 
+    
+    y = mx + b
+
+Here, 
+    y = final predict salary, - Output / Result
+    x = working days, - Input 
+    m = 500/day, rate of change 
+    b = 1000 joining bonus - constant 
+        Here,
+            when x = 0, b = 1000
+
+Here, 
+Standered equation 
+            y = 500 * x + 1000
+
+Let's 
+    one employee work 4 days then the predicted value of that employee is 
+
+    y = 500 * 4 + 1000
+    y = 3000
+:. predict salary (y) of that employee is 3000
+
+--------------------------------------------------------------------------------------------------------------------------------------------

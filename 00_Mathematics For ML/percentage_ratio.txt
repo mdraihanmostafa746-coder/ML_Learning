@@ -1,0 +1,37 @@
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+### Percentage & Ratio ###
+
+Percentage : Expressing numbers as poarts of 100
+Ratio : Comparing two or more quantities.
+
+Foemula ::
+Percentage = (part/whole)*100
+Rratio = part/whole
+
+60 runs , 100 balls 
+
+60:100 --> rratio 
+60% strike rate (Percentage)
+
+* Where percentage & ratio use in ML..?
+
+    i. Check accuracy = (Correct prediction/Total prediction) * 100
+    ii. Precision = (True positives/Total predictive positives)
+    iii.. Recall = True positive / Total actual positives
+
+    * Check Accuracy : 
+        Total = 100
+        Correct = 90
+        Wrong = 10
+        Accuracy = (90/100)*100
+                 = 90%
+    
+    Precision :
+        Let's oure model give us a report where no of spams is 20 but actually no of spams is 15
+        Now, 15 actual spams 
+        Precision = 15/20 
+                  = 0.75
+                  = 75%
+
+--------------------------------------------------------------------------------------------------------------------------------------------

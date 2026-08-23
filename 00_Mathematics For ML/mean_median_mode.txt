@@ -1,0 +1,68 @@
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+### Mean , Median & Mode ###
+
+mean = (sum of total number)/ how many numbers are there
+
+median = middle value
+    if odd
+        median = middle vale 
+    else even
+        median = average of middle two values
+
+mode = most frequent number
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+score = 10 20 30 45 55
+
+mean 
+
+add = (10+20+30+45+55= 160) = sum of total value
+
+how many numbers are there = 5
+
+mean = 160/5 = 32
+
+median 
+
+    here it is odd so median = 30
+
+mode
+
+all values are unique so here do not have any mode 
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Question : 
+
+series = 50, 70, 70, 90, 45, 76, 99, 88
+
+Find mean, median, mode of this series
+
+Mean = (50+70+70+90+45+76+99+88)/8
+     = 588/8
+     = 73.5 (Mean)
+
+Median = (90+45)/2 
+       = 135/2
+       = 67.2
+
+Mode = 70 ( Most frequent number in this series )
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+* Where Mean Median and mode use for ion ML ?
+
+    i. Balenced Data Set ( Equal value)
+    ii. Compared actual value vs predicted value   
+        actual value y_true = what really happened
+        predicted value y_pred = what our model thinks will happen
+    iii. Analyzing error and cleans outliers
+        data : [12,14,18,800]
+            In this list 800 is the wrong value so we remove error or model training we usae outlies and remove error
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------

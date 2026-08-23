@@ -1,0 +1,20 @@
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+### Plotting X vs Y ###
+
+Graphically representing relationship between two variable.
+
+Hours of Study              Exam marks 
+
+1                               40 
+2                               50
+3                               65
+4                               75
+5                               90
+
+Here
+    Relationship between Hours of Studied and Exam marks present a Positive trands 
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------

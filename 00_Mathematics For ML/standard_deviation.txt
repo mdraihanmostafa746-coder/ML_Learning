@@ -1,0 +1,20 @@
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+### Standard Deviation ###
+
+    Measuring the spread of data around the mean.
+
+
+Low Standard Deviation --> All value are close 
+
+High Standard Deviation --> All  value are very fer from each other 
+
+Class A : 
+
+        [60, 61, 63, 59, 60] --> LSD
+
+Class B : 
+
+        [30, 100, 70, 20, 50] --> HSD
+

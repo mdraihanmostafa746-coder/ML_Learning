@@ -1,0 +1,16 @@
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+### Vectors ####
+
+    quantities with both magnitude and direction
+
+In machine learning, a vector is an ordered list of numbers that represents data in a form computers can process.
+     Computers cannot read text, audio, or images directly, so machine learning models turn these real-world items into vectors.
+     These numbers act like coordinates on a map, placing similar items close to each other
+
+Example :
+
+    A persons weight = 65kg height = 170cm 
+    vector  = [65,170]
+
