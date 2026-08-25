@@ -1,0 +1,34 @@
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+### ENCODING CATEGORICAL VALUES ###
+
+*  ECV : 
+    |
+    |--> i. Label Encoding 
+    |
+    '--> ii. One Hot Encoding
+
+* Why we need Encoding Categorical Values..???
+
+
+      We need to encode categorical values because most machine learning algorithms rely on mathematical equations and numbers. 
+      They cannot process text data or words like "Red" or "High" directly. Encoding translates these text categories into a 
+      numerical format while keeping the meaning safe.  
+    
+    i. Label Encoding :
+            |
+            |
+            '-->
+                Lett's : 
+
+                    Gender              Encoded
+
+                    Male                0
+                    Female              1
+
+            Tt's convert category into numbers.
+
+    ii. One Hot Encoding :
+    
