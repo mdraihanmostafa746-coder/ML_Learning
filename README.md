@@ -12,14 +12,14 @@ My hands-on journey of learning Machine Learning from the basics.
 - Vectors
 - Standard Deviation
 
-### Phase 1 — Foundations of ML ⏳
-- [ ] What is Machine Learning?
-- [ ] Types of Machine Learning
-- [ ] Features & Target
-- [ ] Training & Testing Data
-- [ ] Basic ML Workflow
+### Phase 1 — Foundations of ML ✅
+- What is Machine Learning?
+- Types of Machine Learning
+- Features & Target
+- Training & Testing Data
+- Basic ML Workflow
 
-### Phase 2 — Data Preprocessing
+### Phase 2 — Data Preprocessing (Preparing Data)
 - [ ] Data Cleaning
 - [ ] Missing Values
 - [ ] Encoding
