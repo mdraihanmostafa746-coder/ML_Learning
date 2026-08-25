@@ -1,0 +1,33 @@
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+### Machine Learning
+
+    The abbreviation ML most commonly stands for machine learning in technology, milliliter in measurement, or much love in casual text messages.
+
+Layer 1 :
+    AI - Artificial Intelligence - Outer Layer
+
+Layer 2 :
+    ML - Machine Learning - Middle Layer 
+
+Layer 3 : 
+    DL - Deep Learning - Inner Layer 
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+* Which type of Machine Learning should be used...??
+
+    |
+    |--> i. Supervised Learning :
+    |                    Ideal for tasks with labeled data where the desired output is known.
+    |
+    |--> ii. Unsupervised Learning :
+    |                    Suitable for identifying patterns in unlabeled data without expilicit guidance.
+    |
+    '--> iii. Reinforcement Learning :
+                         Best for training agents to make decisions through interaction with an environment.
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
