@@ -44,4 +44,4 @@ Example :
               = -1.41 Ans
 
 
-:. All sum like this in note book. 
+:. All sum like this in note book.
