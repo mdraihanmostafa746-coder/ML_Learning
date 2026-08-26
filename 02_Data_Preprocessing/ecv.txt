@@ -31,4 +31,12 @@
             Tt's convert category into numbers.
 
     ii. One Hot Encoding :
-    
+            |
+            |
+            '--> Let's: 
+                    City : Delhi, Mumbai, Chennai, Kolkata 
+                        It's converted into : 
+                                |
+                                |
+                                '--> City Delhi, City Mumbai, City Chennai, City Kolkata
+                                
