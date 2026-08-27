@@ -19,14 +19,14 @@ My hands-on journey of learning Machine Learning from the basics.
 - Training & Testing Data
 - Basic ML Workflow
 
-### Phase 2 — Data Preprocessing (Preparing Data)
-- [ ] Data Cleaning
-- [ ] Missing Values
-- [ ] Encoding
-- [ ] Feature Scaling
+### Phase 2 — Data Preprocessing ✅
+-  Data Cleaning
+-  Missing Values
+-  Encoding
+-  Feature Scaling
 
-### Phase 3 — Supervised Learning
-- [ ] Linear Regression
+### Phase 3 — Supervised Learning (Ongoing)
+-  Linear Regression
 - [ ] Logistic Regression
 - [ ] KNN
 - [ ] Decision Tree
