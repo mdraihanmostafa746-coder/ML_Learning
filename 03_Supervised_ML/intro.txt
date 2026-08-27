@@ -5,5 +5,38 @@
 ### SUPERVISED MACHINE LEARNING ###
 
 * SML Cycle : 
+        In note book.
 
-    
+
+SML : 
+    Supervised machine learning is a type of AI training where an algorithm learns from labeled data. 
+    This means every input data point comes with the correct output or "right answer". 
+    The model practices on this data, checks its own work, and fixes errors until it can 
+    accurately predict outcomes for brand-new data.
+
+* Machine Learning Algorithm & Training Process :
+
+                                * Regression 
+                                       |
+                                       |
+                        -------------------------------------
+                        |                                    |
+                        |                                    |
+                    Linear Regression                   Classification 
+                        |                                     |
+                        |                                     |
+                        |               --------------------------------------------
+                        |               |                     |                     |
+                        |               |                     |                     |
+                        |       Logistic Regression.         KNN               Decision Tree Classifier
+                        |               |                     |                     |
+                        |               |                     |                     |      
+                        |               |                     |                     |
+                        -------------------------------------------------------------
+                                                    |
+                                                    |
+                                        ---------------------------
+                                        |                          |
+                                        |                          |
+                                    .fit()                      .predict()
+
