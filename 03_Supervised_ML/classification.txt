@@ -1,0 +1,7 @@
+
+
+Classification :
+
+        Classification in machine learning is a supervised learning 
+        technique used to sort data into predefined categories or 
+        classes based on their features
