@@ -1,0 +1,23 @@
+______________________________________________________________________
+
+### Model Evaluation & Metrics ###
+
+Sklearn Metrics :
+
+        Master the use of sklearn.metrics for comprehensive model evaluation.
+        
+Regression Metrics :
+
+
+        Learn to evaluate regression models using MAE, MSE, and RMSE.
+        
+Confusion Matrix :
+
+
+        Understand how to use a confusion matrix to analyze model performance.
+
+Classification Metrics :
+
+
+        Learn to evaluate classification models using accuracy, precision, recall, and F1-score.
+
