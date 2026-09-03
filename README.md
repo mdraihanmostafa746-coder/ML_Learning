@@ -25,23 +25,22 @@ My hands-on journey of learning Machine Learning from the basics.
 -  Encoding
 -  Feature Scaling
 
-### Phase 3 — Supervised Learning (Ongoing)
+### Phase 3 — Supervised Learning ✅
 -  Linear Regression
-- [ ] Logistic Regression
-- [ ] KNN
-- [ ] Decision Tree
-- [ ] Random Forest
+-  Logistic Regression
+-  KNN
+-  Decision Tree
+-  Random Forest
 
-### Phase 4 — Unsupervised Learning
-- [ ] K-Means
-- [ ] PCA
-- [ ] Clustering
-
-### Phase 5 — Model Evaluation
-- [ ] Regression Metrics
-- [ ] Classification Metrics
-- [ ] Cross Validation
+### Phase 4 — Unsupervised Learning ✅
+-  K-Means
+-  PCA
+-  Clustering
+-  Regression Metrics
+-  Classification Metrics
+-  Cross Validation
 
 ### Projects
-Coming soon...
+- 
+- Student Score Prediction Project (Ongoing....)
 
